@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[CowboKnight18]]></title>
-  <link href="http://codemaster18.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Adventure Time | CowboKnight18]]></title>
+  <link href="http://codemaster18.github.io/blog/categories/adventure-time/atom.xml" rel="self"/>
   <link href="http://codemaster18.github.io/"/>
   <updated>2015-06-07T16:31:47+03:00</updated>
   <id>http://codemaster18.github.io/</id>
@@ -20,36 +20,24 @@
     <id>http://codemaster18.github.io/blog/2015/06/07/at-and-witcher-3</id>
     <content type="html"><![CDATA[<p>So, passed some series AT. And the most cool series is &ldquo;On The Lam&rdquo;.</p>
 
-<p><img class="centr" src="http://codemaster18.github.io/images/at1.jpg" width="450" height="450" title="image" alt="images"></p>
+<p><img class="centr" src="/images/at1.jpg" width="450" height="450" title="&lsquo;image&rsquo; &lsquo;images&rsquo;" ></p>
 
 <!-- more -->
 
 
 <p>&ldquo;On The Lam&rdquo; wallpaper:</p>
 
-<p> <img class="centr" src="http://codemaster18.github.io/images/at2.jpg" width="550" height="550" title="image" alt="images"></p>
+<p> <img class="centr" src="/images/at2.jpg" width="550" height="550" title="&lsquo;image&rsquo; &lsquo;images&rsquo;" ></p>
 
 <p>Some pictures from &ldquo;On The Lam&rdquo;:</p>
 
-<p><img class="centr" src="http://codemaster18.github.io/images/at3.jpg" width="450" height="450" title="image" alt="images"></p>
+<p><img class="centr" src="/images/at3.jpg" width="450" height="450" title="&lsquo;image&rsquo; &lsquo;images&rsquo;" ></p>
 
-<p><img class="centr" src="http://codemaster18.github.io/images/at4.jpg" width="550" height="550" title="image" alt="images"></p>
+<p><img class="centr" src="/images/at4.jpg" width="550" height="550" title="&lsquo;image&rsquo; &lsquo;images&rsquo;" ></p>
 
 <p>Last picture so fucking cute.</p>
 
 <p>Series &ldquo;On The Lam&rdquo; tells us about Martin. Martin my favorite character in Adventure time. And this series have dangerous and epic moments. That&rsquo;s why i so love this series. If you haven&rsquo;t watched this series. That&rsquo;s means it&rsquo;s time to watch.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://codemaster18.github.io/blog/2015/06/07/hello-world/"/>
-    <updated>2015-06-07T14:35:00+03:00</updated>
-    <id>http://codemaster18.github.io/blog/2015/06/07/hello-world</id>
-    <content type="html"><![CDATA[<p>My first post here.</p>
-
-<!-- more -->
-
 ]]></content>
   </entry>
   
