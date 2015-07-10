@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://codemaster18.github.io/blog/2015/07/10/turbo-kid/</loc>
+    <lastmod>2015-07-10T14:04:12+03:00</lastmod>
+  </url>
+  <url>
     <loc>http://codemaster18.github.io/blog/2015/06/07/at-and-witcher-3/</loc>
     <lastmod>2015-06-07T15:12:43+03:00</lastmod>
   </url>
@@ -19,5 +23,11 @@
   </url>
   <url>
     <loc>http://codemaster18.github.io/blog/categories/adventure-time/</loc>
+  </url>
+  <url>
+    <loc>http://codemaster18.github.io/blog/categories/turbo-kid/</loc>
+  </url>
+  <url>
+    <loc>http://codemaster18.github.io/blog/categories/awesome-films/</loc>
   </url>
 </urlset>

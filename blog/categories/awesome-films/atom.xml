@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Awesome Films | CowboKnight18]]></title>
+  <link href="http://codemaster18.github.io/blog/categories/awesome-films/atom.xml" rel="self"/>
+  <link href="http://codemaster18.github.io/"/>
+  <updated>2015-07-10T14:56:30+03:00</updated>
+  <id>http://codemaster18.github.io/</id>
+  <author>
+    <name><![CDATA[CowboKnight18]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[TURBO KID]]></title>
+    <link href="http://codemaster18.github.io/blog/2015/07/10/turbo-kid/"/>
+    <updated>2015-07-10T14:04:12+03:00</updated>
+    <id>http://codemaster18.github.io/blog/2015/07/10/turbo-kid</id>
+    <content type="html"><![CDATA[<p>This trailer so goddamn AWESOME!!!</p>
+
+<iframe class="youtube-player" width="770" height="641" src="http://www.youtube.com/embed/AFlZ6pVtnv0"></iframe>
+
+]]></content>
+  </entry>
+  
+</feed>
