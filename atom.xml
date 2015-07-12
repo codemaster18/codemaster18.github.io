@@ -4,7 +4,7 @@
   <title><![CDATA[CowboKnight18]]></title>
   <link href="http://codemaster18.github.io/atom.xml" rel="self"/>
   <link href="http://codemaster18.github.io/"/>
-  <updated>2015-07-10T14:56:30+03:00</updated>
+  <updated>2015-07-12T18:09:04+03:00</updated>
   <id>http://codemaster18.github.io/</id>
   <author>
     <name><![CDATA[CowboKnight18]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Making platformer(Part 1)]]></title>
+    <link href="http://codemaster18.github.io/blog/2015/07/12/make-platformer-part-1/"/>
+    <updated>2015-07-12T16:36:38+03:00</updated>
+    <id>http://codemaster18.github.io/blog/2015/07/12/make-platformer-part-1</id>
+    <content type="html"><![CDATA[<p>So i&rsquo;m making platformer game. And here i am going to talk about my progress of making platform game.</p>
+
+<p>So this game looks like this test game but more fun stuff, dialogs, music, and more stuff.</p>
+
+<p><img class="centr" src="http://codemaster18.github.io/images/A-5d0pbEBkU.jpg" width="450" height="450" title="image" alt="images"></p>
+
+<!-- more -->
+
+
+<p>Today i&rsquo;m testing background and background music. Everything work fine.</p>
+
+<p>Tomorrow i will working with dialogs.</p>
+
+<p>About characters:</p>
+
+<p>I will not hand draw the characters. I&rsquo;m too lazy(Really). I just do all the characters and evil dudes square.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[TURBO KID]]></title>
