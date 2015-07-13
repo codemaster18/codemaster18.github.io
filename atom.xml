@@ -4,7 +4,7 @@
   <title><![CDATA[CowboKnight18]]></title>
   <link href="http://codemaster18.github.io/atom.xml" rel="self"/>
   <link href="http://codemaster18.github.io/"/>
-  <updated>2015-07-12T18:09:04+03:00</updated>
+  <updated>2015-07-13T10:22:01+03:00</updated>
   <id>http://codemaster18.github.io/</id>
   <author>
     <name><![CDATA[CowboKnight18]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Regular Show the Movie]]></title>
+    <link href="http://codemaster18.github.io/blog/2015/07/13/regular-show-the-movie/"/>
+    <updated>2015-07-13T10:08:26+03:00</updated>
+    <id>http://codemaster18.github.io/blog/2015/07/13/regular-show-the-movie</id>
+    <content type="html"><![CDATA[<p>Oooooooooh!</p>
+
+<p><img class="centr" src="http://codemaster18.github.io/images/ooooh.png" width="550" height="550" title="image" alt="images"></p>
+
+<!-- more -->
+
+
+
+
+<iframe class="youtube-player" width="770" height="641" src="http://www.youtube.com/embed/k6JF3MkAY6w"></iframe>
+
+
+<p></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Making platformer(Part 1)]]></title>
